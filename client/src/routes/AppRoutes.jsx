@@ -6,6 +6,7 @@ const role = 'user'
 export function AppRoutes() {
     return(
         <Router>
+            
             {/* <Home/> */}
             {role === 'user' && <UserRouter/> }
             {role ===  ''}
