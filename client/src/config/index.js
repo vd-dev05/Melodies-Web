@@ -1,0 +1,30 @@
+/*************  ✨ Codeium Command ⭐  *************/
+export const SvgAssets = {
+  devicon_google: "/assets/svg/devicon_google.svg",
+  fluent_mdl2_recent: "/assets/svg/fluent-mdl2_recent.svg",
+  Group: "/assets/svg/Group.svg",
+  Group_1: "/assets/svg/Group (1).svg",
+  Group_2: "/assets/svg/Group (2).svg",
+  Group_3: "/assets/svg/Group (3).svg",
+  Group_4: "/assets/svg/Group (4).svg",
+  lets_icons_setting_line: "/assets/svg/lets-icons_setting-line.svg",
+  logo_no_background_1: "/assets/svg/logo-no-background 1.svg",
+  logos_facebook: "/assets/svg/logos_facebook.svg",
+  lucide_instagram: "/assets/svg/lucide_instagram.svg",
+  material_symbols_lyrics_outline: "/assets/svg/material-symbols_lyrics-outline.svg",
+  material_symbols_light_album_outline: "/assets/svg/material-symbols-light_album-outline.svg",
+  ph_heart_light: "/assets/svg/ph_heart-light.svg",
+  streamline_computer_logo_twitter_media_twitter_social:
+    "/assets/svg/Streamline_computer-logo-twitter-media-twitter-social.svg",
+  subway_add_playlist: "/assets/svg/subway_add-playlist.svg",
+  Vector: "/assets/svg/Vector.svg",
+  Vector_1: "/assets/svg/Vector (1).svg",
+  Vector_2: "/assets/svg/Vector (2).svg",
+  Vector_3: "/assets/svg/Vector (3).svg",
+  Vector_4: "/assets/svg/Vector (4).svg",
+  Vector_5: "/assets/svg/Vector (5).svg",
+  Vector_6: "/assets/svg/Vector (6).svg",
+  Vector_7: "/assets/svg/Vector (7).svg",
+  Vector_8: "/assets/svg/Vector (8).svg",
+};
+/******  aec6af29-986e-45ed-875d-9aef880c4d10  *******/
